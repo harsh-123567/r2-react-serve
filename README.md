@@ -93,6 +93,3 @@ Make sure your Wrangler config has the correct account/route settings and that t
 
 Small project; open a PR or issue. Keep changes focused and add/update tests in `test/`.
 
-## License
-
-MIT — see LICENSE (none provided in this repo; add one if you need an explicit license).
